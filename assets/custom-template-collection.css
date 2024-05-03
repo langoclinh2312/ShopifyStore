@@ -1,0 +1,114 @@
+.custom__container {
+    padding-left: 74px;
+    padding-right: 74px;
+}
+
+.content-title {
+    margin-bottom: 50px;
+    padding: 0 4px;
+}
+
+.top-title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #96BB7C;
+}
+
+.custom_title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.35px;
+    text-align: left;
+    color: #252B42;
+}
+
+.custom__description p {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #737373;
+}
+
+.custom__block {
+    padding: 0 78px;
+}
+
+.custom-multicolumn.background-none .multicolumn-card {
+    overflow: hidden;
+    border-radius: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 13px 19px 0px #00000012;
+}
+
+.custom-multicolumn .grid--4-col-desktop .grid__item {
+    width: calc(25% - 92px / 4);
+    max-width: calc(25% - 92px / 4);
+}
+
+.custom-multicolumn .multicolumn-list {
+    column-gap: 30px;
+}
+
+.custom-multicolumn.background-none .multicolumn-card__image-wrapper {
+    margin: 0;
+    max-height: 231px;
+}
+
+.custom-multicolumn.background-none .multicolumn-card__image-wrapper img {
+    max-height: 231px;
+}
+
+.custom-multicolumn .multicolumn-card__info {
+    padding: 30px;
+}
+
+.custom-multicolumn .multicolumn-card__info .title-block {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', 'sans-serif';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    color: #252B42;
+}
+
+.custom-multicolumn .multicolumn-card__info .rte {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', 'sans-serif';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #737373;
+}
+
+.list-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.list-icon .link-icon,
+.list-icon .link-icon img {
+    width: 23px;
+    height: 23px;
+}
